@@ -10,4 +10,4 @@ story - https://public.tableau.com/app/profile/alagulakshmi.g/viz/Agriculture_16
 
 Data set-https://drive.google.com/file/d/1wF2l0Nlzd4ivviVeK1KRApJnUi1FHVXp/view?usp=drive_web
 
-video - 
+video - https://drive.google.com/file/d/1WIwNTvqFPgPOh1HdkcXHBwbh0NTIrsQ-/view?usp=sharing_eil_se_dm&ts=652bffb3
